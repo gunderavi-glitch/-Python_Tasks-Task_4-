@@ -1,4 +1,4 @@
-# problem3 : Loops
+# problem4 : Loops
 # hacker rank link : https://www.hackerrank.com/challenges/python-loops/problem
 
 # code
